@@ -1,0 +1,28 @@
+@import url(http://fonts.googleapis.com/css?family=Cabin);
+@import url(http://fonts.googleapis.com/css?family=Lobster);
+
+body {
+    padding-top: 70px;
+    padding-bottom: 30px;
+    font-size: medium;
+    font-family: 'Cabin', sans-serif;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Lobster', cursive;
+}
+
+div.navbar div.container {
+    font-size: medium;
+}
+
+pre {
+    color: white;
+    background: #2e3436;
+    font-weight: #eeeeec;
+    font-size: small;
+}
+
+.carousel-caption {
+    position: 
+}
